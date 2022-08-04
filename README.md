@@ -62,5 +62,6 @@
 <br>
 <br>
 <br>
-備註：<
+備註：
+<br>
 如有需要Server.py檔案，請要求存取權限：https://drive.google.com/drive/folders/18AJRWihFKboIqdWxMALT3wo8aRT2QMR0?usp=sharing
