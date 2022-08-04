@@ -57,3 +57,9 @@
 <div align=center>
     <img width="800" height="350" src="https://github.com/SmallliDinosaur/NTTU__Dinosaur_Backdoor/blob/main/introduce/%E9%96%8B%E5%95%9F%E7%A8%8B%E5%BC%8F.jpg"/>
 </div>
+
+
+<br>
+<br>
+<br>
+備註：如有需要Server.py檔案，請要求存取權限：https://drive.google.com/drive/folders/18AJRWihFKboIqdWxMALT3wo8aRT2QMR0?usp=sharing
