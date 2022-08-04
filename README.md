@@ -4,6 +4,25 @@
     <img width="800" height="350" src="https://github.com/SmallliDinosaur/NTTU__Dinosaur_Backdoor/blob/main/introduce/help%E6%8C%87%E4%BB%A4.jpg"/>
 </div>
 
+<br>
+<div align="center">
+
+| 指令                  | 說明                                |
+| -------------------   |------------------------------------| 
+|cd [path]              |Change Directory                    |     
+|download [filename]    |Download file from client to server |               
+|upload [filename]      |Upload file from server to client   |            
+|get [url]              |Get file from URL                   |
+|start [program]        |Start a program                     |
+|screenshot             |Take screenshot                     |
+|check                  |Check administrator proviledges     |          
+|keylog_start           |Start keylogger                     |
+|keylog_dump            |Show keylog data                    |
+|[command]              |CMD command                         |
+|q                      |quit                                |
+
+</div>
+
 ### 上傳下載
 <div align=center>
     <img width="800" height="350" src="https://github.com/SmallliDinosaur/NTTU__Dinosaur_Backdoor/blob/main/introduce/%E4%B8%8A%E5%82%B3%E4%B8%8B%E8%BC%89.jpg"/>
