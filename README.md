@@ -1,4 +1,4 @@
-# NTTU__Dinosaur_Backdoor
+# NTTU_Backdoor
 ### help指令
 <div align=center>
     <img width="800" height="350" src="https://github.com/SmallliDinosaur/NTTU__Dinosaur_Backdoor/blob/main/introduce/help%E6%8C%87%E4%BB%A4.jpg"/>
